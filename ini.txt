@@ -1,0 +1,15 @@
+[SectionOne]
+key=value
+integer=1234
+real=3.14
+string1=No multi line
+mutliline=START of multi line
+This whole section will be picked up the regex
+till the
+END
+[SectionTwo]
+key1=new value
+mutliline2=START of multi line
+This whole section will be picked up the regex
+till the
+END
